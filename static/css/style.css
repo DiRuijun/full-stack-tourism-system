@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://images8.alphacoders.com/465/465337.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0; 
+    padding: 0; 
+    position: relative;
+    background-attachment: fixed;
+}
+
+.btn-cadetblue {
+    color: cadetblue;
+    background-color: cadetblue;
+    border-color: cadetblue;
+}
+.btn-cadetblue:hover {
+    color: cadetblue;
+    background-color: darkcyan; 
+    border-color: darkcyan; 
+}
+
+.custom-col{
+    position: relative;
+    width: calc((100% - (6 * 5px)) / 3);
+    height: 700px;
+    margin: 5px;
+    justify-content: center;
+    box-sizing: border-box;
+    background-color: rgba(245, 245, 245, 0.7);
+}
+
