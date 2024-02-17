@@ -1,6 +1,6 @@
-# Online Survey System Implementation Guide
+# Online Tourism System Implementation Guide
 
-The Online Survey System developed by Wonder What Is Tourism (WAIT) Pte Ltd is a dynamic application designed to conduct global surveys on tourist attractions worldwide. This application plays a critical role in collecting and analyzing travel, tourism, and culture information, thereby optimizing destinations and enhancing visitor experiences. Through its unique features, it enables active user participation, allowing for a more comprehensive understanding of global tourism insights.
+The Online Tourism System developed by Wonder What Is Tourism (WAIT) Pte Ltd is a dynamic application designed to conduct global surveys on tourist attractions worldwide. This application plays a critical role in collecting and analyzing travel, tourism, and culture information, thereby optimizing destinations and enhancing visitor experiences. Through its unique features, it enables active user participation, allowing for a more comprehensive understanding of global tourism insights.
 
 Implementation on New PC/Server
 
