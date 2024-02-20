@@ -1,10 +1,10 @@
-# Online Tourism System Implementation Guide
+# Tourism System Implementation Guide
 
-The Online Tourism System developed by Wonder What Is Tourism (WAIT) Pte Ltd is a dynamic application designed to conduct global surveys on tourist attractions worldwide. This application plays a critical role in collecting and analyzing travel, tourism, and culture information, thereby optimizing destinations and enhancing visitor experiences. Through its unique features, it enables active user participation, allowing for a more comprehensive understanding of global tourism insights.
+The Tourism System is a dynamic application designed to conduct global surveys on tourist attractions worldwide. This application plays a critical role in collecting and analyzing travel, tourism, and culture information, thereby optimizing destinations and enhancing visitor experiences. Through its unique features, it enables active user participation, allowing for a more comprehensive understanding of global tourism insights.
 
 Implementation on New PC/Server
 
-This guide will walk you through the process of setting up the Online Survey System on a new PC or server. The system is built with Python, ensuring easy deployment and scalability.
+This guide will walk you through the process of setting up the Tourism System on a new PC or server. The system is built with Python, ensuring easy deployment and scalability.
 
 ## Features
 #### Dynamic Survey System
@@ -51,7 +51,7 @@ port = int(os.environ.get("PORT", 5000))
 ```
 Change it to:
 ```
-port = int(os.environ.get("PORT", 5000))
+port = int(os.environ.get("PORT", 5050))
 ```
 No extra python packages are needed to be installed in this application.
 
@@ -98,7 +98,7 @@ The Online Survey System provides various API endpoints for interacting with the
     - `place`: The name of the place of interest.
   - **Returns**: Detailed data about the specified place, including votes and user feedback. If the place or country cannot be found, an error message is returned.
 
-These endpoints facilitate the dynamic interaction with the Online Survey System, allowing users to not only participate in surveys but also to explore the data collected on global tourist attractions.
+These endpoints facilitate the dynamic interaction with the Tourism System, allowing users to not only participate in surveys but also to explore the data collected on global tourist attractions.
 
 
 
